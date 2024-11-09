@@ -1,5 +1,5 @@
 # CapStone-Project
-This Project us to help show the break down of data for a sales company and includes the metrics and tools used.
+This Project help us to show the break down of data for a sales company and includes the metrics and tools used.
 
 ### Data Cleaning & Preparation
 In the initial stage certain actions were performed
@@ -7,6 +7,11 @@ In the initial stage certain actions were performed
 2. Handling Missing Varibles
 3. Formatting of cells
 4. Data Visualization was also done.
+
+### Tool Used
+- Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=04bff806b0a966640250ed20b10567a6)
+- SQL[Download here](https://www.bing.com/search?q=microsoft+sql+server+download&filters=dtbk:%22MCFjZ192NV9kb3dubG9hZCFjZ192NV9kb3dubG9hZCFkODhhZWI3ZC00ZTViLTNjOWItMTkwMC0zOTNlNmQ1ZmNmNGU%3d%22+sid:%22d88aeb7d-4e5b-3c9b-1900-393e6d5fcf4e%22&FORM=DEPNAV)
+- Power BI [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?msockid=04bff806b0a966640250ed20b10567a6)
 
 ### Exploratory Data Analysis
 In this Phase we were able to calulate the
