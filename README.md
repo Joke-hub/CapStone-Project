@@ -95,4 +95,16 @@ SELECT
 FROM [dbo].[CustomerData]
 ```
 
+Data Visualization
+![PHOTO-2024-11-05-15-38-27](https://github.com/user-attachments/assets/77d9eb8d-a40e-4a9c-913d-308701c4ec92)
 
+
+![PHOTO-2024-11-05-16-05-35](https://github.com/user-attachments/assets/45fdf5f6-5c96-4ef4-ba73-39500167a0ca)
+
+
+
+![PHOTO-2024-11-05-16-39-40](https://github.com/user-attachments/assets/55831cd0-5327-40f6-a8e5-6f84c2e4a324)
+
+
+
+![PHOTO-2024-11-05-16-52-17](https://github.com/user-attachments/assets/e6a38e96-9699-43b7-bf97-5298eb1b3b28)
