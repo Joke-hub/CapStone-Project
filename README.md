@@ -1,12 +1,18 @@
 # CapStone-Project
 This Project help us to show the break down of data for a sales company and includes the metrics and tools used.
 
+### Project Overview
+This project involves the use of some tools such as Power BI, excel and SQL to help a company determine what needs to be done or how best to improve on their products and servicess. It also helps to show the progress made within a year and also know the loyalty of their customers / returning customers.
+
 ### Data Cleaning & Preparation
 In the initial stage certain actions were performed
 1. Data Loading and Inspection
 2. Handling Missing Varibles
 3. Formatting of cells
 4. Data Visualization was also done.
+
+### Data Source
+The primary source of Data used was gotten from CapStone LITA Project
 
 ### Tool Used
 - Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=04bff806b0a966640250ed20b10567a6)
