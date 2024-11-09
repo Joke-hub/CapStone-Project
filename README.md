@@ -1,7 +1,7 @@
 # CapStone-Project
 This Project us to help show the break down of data for a sales company and includes the metrics and tools used.
 
-## Data Cleaning & Preparation
+### Data Cleaning & Preparation
 In the initial stage certain actions were performed
 1. Data Loading and Inspection
 2. Handling Missing Varibles
@@ -15,6 +15,10 @@ In this Phase we were able to calulate the
 - Maximum Subscriptions
 - Top performing region
 - % of total sale
+
+  ### Data Visualization
+This helps shows what we ave on our dashboard and helps with a beautiful presentation of our Data.
+
 
 ### Data Analysis
 This includes Basic Lines of Code or Queries used during analysis
@@ -95,6 +99,4 @@ SELECT
 FROM [dbo].[CustomerData]
 ```
 
-### Data Visualization
-This helps shows what we ave on our dashboard and helps with a beautiful presentation of our Data.
 
